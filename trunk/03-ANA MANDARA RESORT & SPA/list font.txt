@@ -1,0 +1,7 @@
+[HelveticaNeue] [Regular]
+[HelveticaNeue] [Medium]
+[HelveticaNeue]  [Bold]
+[Helvetica]       [ Bold]
+
+[Perpetua Titling MT]   [Light]
+[Albertina] [Regular]
